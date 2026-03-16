@@ -1,0 +1,5 @@
+--> [Experiment]: coarse_grid_lr_0_005 | LR: 0.005 | Epochs: 2
+Epoch 001/2 | Train Loss: 0.4589 Acc: 83.69% | Val Loss: 0.4538 Acc: 84.65%
+    --> New Best Model saved! (84.65%)
+Epoch 002/2 | Train Loss: 0.3754 Acc: 86.41% | Val Loss: 0.3627 Acc: 87.02%
+    --> New Best Model saved! (87.02%)
